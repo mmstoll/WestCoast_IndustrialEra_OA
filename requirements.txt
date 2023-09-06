@@ -10,3 +10,11 @@ discretize==0.3.8
 -e git:https://github.com/simpeg/simpeg.git@examples/PGI
 -e git:https://github.com/simpeg/simpegEM1D@examples/PGI
 -e git:https://github.com/simpeg/tle-magnetotelluric_inversion@master
+
+#MM ADDITIONS
+numpy=1.21.5
+matplotlib=3.5.1
+xarray=0.20.1
+cartopy=0.18.0
+
+cmocean==2.0
