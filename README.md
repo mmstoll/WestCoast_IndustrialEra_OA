@@ -45,4 +45,4 @@ Each cell of code can be run with ```shift + enter``` or you can run the entire 
 
 For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://docs.jupyter.org/en/latest/).
 ### License
-These notebooks are licensed under the [MIT License](/LICENSE) which allows academic and commercial re-use and adaptation of this work.
+These notebooks are licensed under the [MIT License](/LICENSE), which allows academic and commercial re-use and adaptation of this work.
