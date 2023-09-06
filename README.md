@@ -41,7 +41,7 @@ jupyter notebook
 ### Notebook Descriptions
 
 ### Instructions for Use
-Each cell of code can be run with ```ruby shift + enter``` or you can run the entire notebook by selecting Run --> Run All in the toolbar.
+Each cell of code can be run with ```shift + enter``` or you can run the entire notebook by selecting ```Run``` --> ```Run All Cells``` in the dropdown menu.
 
 For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://docs.jupyter.org/en/latest/).
 ### License
