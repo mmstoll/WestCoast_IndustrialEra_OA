@@ -23,6 +23,8 @@ Then change into the WestCoast_IndustrialEra_OA directory:
 ```ruby
 cd WestCoast_IndustrialEra_OA
 ```
+Typical install time on a desktop computer: 
+
 ### System Requirements
 To run the notebooks on your local desktop, you will need to install Python through anaconda. The following notebooks use Python version 3.9.12.
 
@@ -36,9 +38,11 @@ To run the notebooks, you will need to launch jupyter in your web browser:
 jupyter notebook
 ```
 
-### Demo
+### Notebook Descriptions
 
 ### Instructions for Use
+Each cell of code can be run with ```rubyshift + enter``` or you can run the entire notebook by selecting Run --> Run All in the toolbar.
 
+For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://docs.jupyter.org/en/latest/).
 ### License
-These notebooks are licensed under the MIT License which allows academic and commercial re-use and adaptation of this work.
+These notebooks are licensed under the [MIT License](..master/LICENSE) which allows academic and commercial re-use and adaptation of this work.
