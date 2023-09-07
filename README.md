@@ -47,13 +47,14 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
 ### Notebook Descriptions
 **Code:**
  - d11B_Raw_Data_Analysis.ipynb
-    - asdf
+    -  - **Extended Data Figure 2:** Skeletal δ11B data from the Salish Sea West Coast
     -
  - Salish_Sea_Analysis.ipynb
  - Salish_Sea_Box_Model.ipynb
  - ROMS_Model_Analysis.ipynb
  - ROMS_Model_Decomposition_Analyses.ipynb
  - Coral_vs_Model_Comparison.ipynb
+
  
 **Data:**
  - 
