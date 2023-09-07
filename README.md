@@ -49,7 +49,7 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
  - d11B_Raw_Data_Analysis.ipynb
     - **Extended Data Figure 2:** Skeletal δ11B data from the Salish Sea West Coast
  - Salish_Sea_Analysis.ipynb
-    - **Extended Data Figure 3:** Centennial changes in $p$CO$_2$ and pH in the Salish Sea 
+    - **Extended Data Figure 3:** Centennial changes in *p*CO_2 and pH in the Salish Sea 
  - Salish_Sea_Box_Model.ipynb
  - ROMS_Model_Analysis.ipynb
  - ROMS_Model_Decomposition_Analyses.ipynb
