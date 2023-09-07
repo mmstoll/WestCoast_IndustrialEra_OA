@@ -45,8 +45,18 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
 
 
 ### Notebook Descriptions
- - Code
-   - dffd 
- - Data
+**Code:**
+ - d11B_Raw_Data_Analysis.ipynb
+    - asdf
+    -
+ - Salish_Sea_Analysis.ipynb
+ - Salish_Sea_Box_Model.ipynb
+ - ROMS_Model_Analysis.ipynb
+ - ROMS_Model_Decomposition_Analyses.ipynb
+ - Coral_vs_Model_Comparison.ipynb
+ 
+**Data:**
+ - 
+
 ### License
 These notebooks are licensed under the [MIT License](/LICENSE), which allows academic and commercial re-use and adaptation of this work.
