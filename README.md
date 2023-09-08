@@ -2,49 +2,37 @@
 
 ## Content
  - Overview
- - Installation Guide
- - System Requirements
+ - Installation Guide/System Requirements
  - Demo
  - Instructions for Use
  - License
 
 ### Overview
 
-### Installation Guide
+### Installation Guide and System Requirements
 To run the notebooks on your local desktop, you will need to install Python through anaconda. The following notebooks use Python version 3.9.12.
 
 1) Install conda from official anaconda website: https://www.anaconda.com/products/distribution
-2) Create new conda environment:
-   ```ruby
-conda create --name my env
-```
-
-Install the dependencies specified in requirements.txt:
-```ruby
-pip install -r requirements.txt
-```
-Next, clone this repository from the command line by running:
+2) Next, clone this repository from the command line by running:
 ```ruby
 git clone https://github.com/mmstoll/WestCoast_IndustrialEra_OA.git
 ```
-Then change into the WestCoast_IndustrialEra_OA directory:
+3) Then change into the WestCoast_IndustrialEra_OA directory:
 ```ruby
 cd WestCoast_IndustrialEra_OA
 ```
-Typical install time on a desktop computer: 
-
-### System Requirements
-To run the notebooks on your local desktop, you will need to install Python through anaconda. The following notebooks use Python version 3.9.12.
-
-To set up your software environment, it is recommended you use the provided conda environment:
+4) To set up your software environment, it is recommended you use the provided conda environment. This environment lists the necessary packages and versions to run the Jupyter notebooks:
 ```ruby
-conda env create -f environment.yml
 conda activate oa-environment
 ```
-To run the notebooks, you will need to launch jupyter in your web browser:
+5) To run the Jupyter notebooks, you will need to launch Jupyter in your web browser:
 ```ruby
 jupyter notebook
 ```
+
+
+Typical install time on a desktop computer: 
+
 
 ### Instructions for Use
 Each cell of code can be run with ```shift + enter``` or you can run the entire notebook by selecting ```Run``` --> ```Run All Cells``` in the dropdown menu.
