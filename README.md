@@ -11,6 +11,14 @@
 ### Overview
 
 ### Installation Guide
+To run the notebooks on your local desktop, you will need to install Python through anaconda. The following notebooks use Python version 3.9.12.
+
+1) Install conda from official anaconda website: https://www.anaconda.com/products/distribution
+2) Create new conda environment:
+   ```ruby
+conda create --name my env
+```
+
 Install the dependencies specified in requirements.txt:
 ```ruby
 pip install -r requirements.txt
