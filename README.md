@@ -68,13 +68,15 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
 - Atmospheric_Global_Annual_CO2_IAC_Switzerland.csv
    - Atmospheric CO<sub> 2 </sub> data from Institute for Atmospheric and Climate Science, Switzerland  
 - BGC_Model_Coral_d11B_Data.csv
-   - Historic and modern coral δ11B data, 
+   - Historic and modern coral δ11B data, as previewed in Extended Data Table 3
 - Manuscript_West_Coast_Coral_Data.xlsx
    - Sheet 1: Historic West Coast coral δ11B data
    - Sheet 2: Historic West Coast coral δ11B data, averaged by location
 - Manuscript_West_Coast_Coral_Data_BGC_Model.xlsx
-   - Historic West Coast coral δ11B data, averaged by location  
-- Simulation model output archive data can be made available by email requests to the Corresponding Authors. The physical and biogeochemical codes used for the 4km resolution simulations can be found at https://github.com/UCLA-ROMS/Code. 
+   - Historic West Coast coral δ11B data, averaged by location
+- Upwelling_Properties.csv
+   - Saved output from modern ROMS simulation from upwelled waters that enter the Salish Sea from the California Current    
+- Simulation model output data can be made available by email requests to the corresponding authors. The physical and biogeochemical codes used for the 4km resolution simulations of this model can be found at https://github.com/UCLA-ROMS/Code. 
 
 ### License
 These notebooks are licensed under the [MIT License](/LICENSE), which allows academic and commercial re-use and adaptation of this work.
