@@ -76,7 +76,7 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
    - Historic West Coast coral δ11B data, averaged by location
 - Upwelling_Properties.csv
    - Saved output from modern ROMS simulation from upwelled waters that enter the Salish Sea from the California Current    
-- Simulation model output data can be made available by email requests to the corresponding authors. The physical and biogeochemical codes used for the 4km resolution simulations of this model can be found at https://github.com/UCLA-ROMS/Code. 
+- Simulation model output data can be made available by email requests to the corresponding authors. The physical and biogeochemical codes used for the 4km resolution simulations of this model can be found at https://github.com/UCLA-ROMS/Code.
 
 ### License
 These notebooks are licensed under the [MIT License](/LICENSE), which allows academic and commercial re-use and adaptation of this work.
