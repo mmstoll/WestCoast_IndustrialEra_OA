@@ -70,7 +70,8 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
     - **Supplementary Info Figure 3.2:** Comparison between historic model-based and coral-based _p_ CO<sub> 2 </sub> estimates in the California Current 
  
 #### **Data:**
- - 
+ - #### Included:
+    - 
 
 ### License
 These notebooks are licensed under the [MIT License](/LICENSE), which allows academic and commercial re-use and adaptation of this work.
