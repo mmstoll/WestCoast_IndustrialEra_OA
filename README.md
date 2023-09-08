@@ -3,7 +3,6 @@
 ## Content
  - Overview
  - Installation Guide/System Requirements
- - Demo
  - Instructions for Use
  - License
 
@@ -30,16 +29,12 @@ conda activate oa-environment
 ```ruby
 jupyter notebook
 ```
-
-
-Typical install time on a desktop computer: 
-
+Typical install time on desktop: < 30 mins
 
 ### Instructions for Use
 Each cell of code can be run with ```shift + enter``` or you can run the entire notebook by selecting ```Run``` --> ```Run All Cells``` in the dropdown menu.
 
 For more information on running Jupyter notebooks, see the [Jupyter Documentation](https://docs.jupyter.org/en/latest/).
-
 
 ### Notebook Descriptions
 #### **Code:**
@@ -51,7 +46,7 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
     - Calculates coral-based estimates of pH and _p_ CO<sub> 2 </sub> centennial change in the Salish Sea 
  
  - Salish_Sea_Box_Model.ipynb
-    - Estimates centennial change in pH and _p_ CO<sub> 2 </sub> in the Salish Sea using box model
+    - Estimates of centennial change in pH and _p_ CO<sub> 2 </sub> in the Salish Sea using box model
  
  - ROMS_Model_Analysis.ipynb
     - **Main Text Figure 1a:** Climatological mean map of _p_ CO<sub> 2 </sub> anomaly at 75 meters depth over the ROMS domain
@@ -70,8 +65,8 @@ For more information on running Jupyter notebooks, see the [Jupyter Documentatio
     - **Supplementary Info Figure 3.2:** Comparison between historic model-based and coral-based _p_ CO<sub> 2 </sub> estimates in the California Current 
  
 #### **Data:**
- - #### Included:
-    - 
+ - 
+- Simulation model output archive data can be made available by email requests to the Corresponding Authors. The physical and biogeochemical codes used for the 4km resolution simulations can be found at https://github.com/UCLA-ROMS/Code. 
 
 ### License
 These notebooks are licensed under the [MIT License](/LICENSE), which allows academic and commercial re-use and adaptation of this work.
