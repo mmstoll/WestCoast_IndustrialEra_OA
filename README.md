@@ -1,4 +1,4 @@
-# A Century of Change in the California Current: Upwelling Systems Accelerate Acidification 
+# A Century of Change in the California Current: Upwelling System Amplifies Acidification 
 
 ## Content
  - Overview
