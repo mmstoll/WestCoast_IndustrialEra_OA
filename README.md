@@ -7,7 +7,7 @@
  - License
 
 ### Overview
-Jupyter notebooks and python scripts to reproduce the figures and analyses presented in 'A Century of Change in the California Current: Upwelling Systems Amplifies Acdification'. 
+Jupyter notebooks and python scripts to reproduce the figures and analyses presented in 'A Century of Change in the California Current: Upwelling Systems Amplifies Acidification'. 
 
 ### Installation Guide and System Requirements
 To run the notebooks on your local desktop, you will need to install Python through anaconda. The following notebooks use Python version 3.9.12.
